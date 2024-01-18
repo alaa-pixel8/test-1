@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "108614321789",
+    "firebase_url": "https://mkt-store-97e14-default-rtdb.firebaseio.com",
+    "project_id": "mkt-store-97e14",
+    "storage_bucket": "mkt-store-97e14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108614321789:android:323ec7bd56e283d1149314",
+        "android_client_info": {
+          "package_name": "com.example.test_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkW138G7mrfopPJBa0AWCEeqDF9Iks_vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
